@@ -3,7 +3,7 @@
     "path": "C:/Users/sdarm/Downloads/ANALISIS/ANALISIS/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "1666542213",
     "contents": "",
     "dirty": false,
     "created": 1789465278246.0,
@@ -11,14 +11,16 @@
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "2,14",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1789465272,
+    "lastKnownWriteTime": 1789466960,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1789465272,
+    "last_content_update": 1789466960497,
     "read_only": false,
     "read_only_alternatives": []
 }
